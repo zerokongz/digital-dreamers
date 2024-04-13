@@ -1,0 +1,15 @@
+{  
+  "name": "digital-dreamers",  
+  "version": "1.8.7",  
+  "description": "digi文件自检",  
+  "main": "index.js",  
+  "scripts": {  
+    "test": "echo \"Error: no test specified\" && exit 1"  
+  },  
+  "repository": {  
+    "type": "git",  
+    "url": "https://github.com/zerokongz/digital-dreamers"  
+  },  
+  "license": "ISC",  
+  "homepage": "https://github.com/zerokongz/digital-dreamers"  
+}
